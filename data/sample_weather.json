@@ -1,0 +1,74 @@
+{
+  "cities": {
+    "Mumbai": {
+      "current": {
+        "temp": 38.5, "feels_like": 42.1, "humidity": 85, "pressure": 1008,
+        "wind_speed": 14.2, "wind_deg": 220, "description": "heavy intensity rain",
+        "visibility": 3000, "uvi": 7.2
+      },
+      "forecast": [
+        {"day": "Day 1", "temp_max": 39, "temp_min": 28, "humidity": 88, "description": "heavy rain", "rain": 18.5, "wind_speed": 16},
+        {"day": "Day 2", "temp_max": 37, "temp_min": 27, "humidity": 82, "description": "moderate rain", "rain": 10.2, "wind_speed": 12},
+        {"day": "Day 3", "temp_max": 36, "temp_min": 26, "humidity": 78, "description": "light rain", "rain": 5.5, "wind_speed": 10},
+        {"day": "Day 4", "temp_max": 35, "temp_min": 26, "humidity": 75, "description": "partly cloudy", "rain": 0, "wind_speed": 8},
+        {"day": "Day 5", "temp_max": 38, "temp_min": 28, "humidity": 80, "description": "thunderstorm", "rain": 22.0, "wind_speed": 20}
+      ]
+    },
+    "Delhi": {
+      "current": {
+        "temp": 45.2, "feels_like": 49.0, "humidity": 22, "pressure": 998,
+        "wind_speed": 6.5, "wind_deg": 290, "description": "clear sky",
+        "visibility": 8000, "uvi": 11.5
+      },
+      "forecast": [
+        {"day": "Day 1", "temp_max": 46, "temp_min": 32, "humidity": 18, "description": "clear sky", "rain": 0, "wind_speed": 7},
+        {"day": "Day 2", "temp_max": 44, "temp_min": 31, "humidity": 20, "description": "haze", "rain": 0, "wind_speed": 6},
+        {"day": "Day 3", "temp_max": 43, "temp_min": 30, "humidity": 24, "description": "haze", "rain": 0, "wind_speed": 8},
+        {"day": "Day 4", "temp_max": 41, "temp_min": 29, "humidity": 30, "description": "partly cloudy", "rain": 0, "wind_speed": 9},
+        {"day": "Day 5", "temp_max": 40, "temp_min": 28, "humidity": 35, "description": "light rain", "rain": 3.0, "wind_speed": 11}
+      ]
+    },
+    "Bengaluru": {
+      "current": {
+        "temp": 27.5, "feels_like": 29.0, "humidity": 68, "pressure": 1013,
+        "wind_speed": 11.0, "wind_deg": 180, "description": "scattered clouds",
+        "visibility": 7000, "uvi": 5.8
+      },
+      "forecast": [
+        {"day": "Day 1", "temp_max": 29, "temp_min": 20, "humidity": 65, "description": "partly cloudy", "rain": 0, "wind_speed": 10},
+        {"day": "Day 2", "temp_max": 28, "temp_min": 19, "humidity": 70, "description": "light rain", "rain": 4.5, "wind_speed": 12},
+        {"day": "Day 3", "temp_max": 26, "temp_min": 18, "humidity": 72, "description": "moderate rain", "rain": 8.0, "wind_speed": 13},
+        {"day": "Day 4", "temp_max": 27, "temp_min": 19, "humidity": 66, "description": "scattered clouds", "rain": 0, "wind_speed": 9},
+        {"day": "Day 5", "temp_max": 28, "temp_min": 20, "humidity": 63, "description": "clear sky", "rain": 0, "wind_speed": 8}
+      ]
+    },
+    "London": {
+      "current": {
+        "temp": 12.3, "feels_like": 9.8, "humidity": 78, "pressure": 1020,
+        "wind_speed": 18.5, "wind_deg": 240, "description": "overcast clouds",
+        "visibility": 6000, "uvi": 1.2
+      },
+      "forecast": [
+        {"day": "Day 1", "temp_max": 13, "temp_min": 7, "humidity": 80, "description": "light rain", "rain": 3.5, "wind_speed": 19},
+        {"day": "Day 2", "temp_max": 11, "temp_min": 6, "humidity": 85, "description": "moderate rain", "rain": 7.0, "wind_speed": 22},
+        {"day": "Day 3", "temp_max": 10, "temp_min": 5, "humidity": 82, "description": "heavy rain", "rain": 12.0, "wind_speed": 25},
+        {"day": "Day 4", "temp_max": 12, "temp_min": 6, "humidity": 76, "description": "overcast clouds", "rain": 0, "wind_speed": 16},
+        {"day": "Day 5", "temp_max": 14, "temp_min": 8, "humidity": 70, "description": "partly cloudy", "rain": 0, "wind_speed": 14}
+      ]
+    },
+    "New York": {
+      "current": {
+        "temp": 22.5, "feels_like": 21.0, "humidity": 60, "pressure": 1018,
+        "wind_speed": 13.0, "wind_deg": 200, "description": "few clouds",
+        "visibility": 10000, "uvi": 4.5
+      },
+      "forecast": [
+        {"day": "Day 1", "temp_max": 24, "temp_min": 16, "humidity": 58, "description": "partly cloudy", "rain": 0, "wind_speed": 12},
+        {"day": "Day 2", "temp_max": 26, "temp_min": 18, "humidity": 55, "description": "clear sky", "rain": 0, "wind_speed": 10},
+        {"day": "Day 3", "temp_max": 20, "temp_min": 14, "humidity": 70, "description": "light rain", "rain": 5.0, "wind_speed": 16},
+        {"day": "Day 4", "temp_max": 18, "temp_min": 12, "humidity": 75, "description": "moderate rain", "rain": 9.0, "wind_speed": 18},
+        {"day": "Day 5", "temp_max": 22, "temp_min": 15, "humidity": 62, "description": "partly cloudy", "rain": 0, "wind_speed": 11}
+      ]
+    }
+  }
+}
